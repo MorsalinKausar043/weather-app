@@ -1,0 +1,22 @@
+input{
+    /* border: none; */
+    height: 45px;
+    border-radius: 10px;
+}
+
+
+
+table, td, th {
+  /* border: 1px solid black; */
+  text-align: left
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.color{
+    background-image: linear-gradient(to right top, #051937, #051937, #051937, #051937, #051937);
+    color: white;
+}
